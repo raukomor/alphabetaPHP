@@ -30,7 +30,7 @@
                     <div class="navbar-nav mr-auto links">
                     <a href="/home">Documento</a>
                     <a href="/comentario">Comentarios</a>
-                    <a href="/desenvolvedor">Desenvolvedores</a>
+                    <!-- <a href="/desenvolvedor">Desenvolvedores</a> -->
                 </div>
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
